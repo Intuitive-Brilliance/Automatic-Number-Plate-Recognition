@@ -21,7 +21,7 @@
 <h3 align="center">Automatic Number Plate Recognition</h3>
 
   <p align="center">
-     A ChatBot, built using the transformer-based DistilBERT algorithm, tailored to assist customers with their inquiries and guide them to the appropriate destination.
+An end-to-end application to capture the license plate numbers of vehicles and retrieve their corresponding license numbers.
     <br />
 <!--<a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -69,9 +69,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-When customers visit a website, they often have many questions and concerns before making a purchase. This means that a customer service representative must be available to provide reassurance and answer their questions. However, it can be costly to have a team of representatives available to assist with the large number of customers a website may receive, especially since many of the questions are repetitive. 
+Traffic police officers face the challenge of managing a large volume of traffic while ensuring that traffic rules are followed. However, the limits of human capability mean that many rule breakers go undetected, leading to dangerous situations on the roads. To address this problem, license plate numbers of rule violators can be captured and used to identify and punish them. This not only helps to maintain order on the roads but also makes them safer for everyone. By imposing penalties on rule breakers, traffic police can deter others from violating the rules and create a safer environment for everyone on the roads.
 
-The Megatron ChatBot can help with this. Trained using the state-of-the-art DistilBERT algorithm and extensive customer query data, the chatbot can provide a wide range of answers, from finding solutions in its own database to searching the web for answers. In the rare case that the chatbot is unable to help, a customer service representative will be assigned to assist the customer directly.
+To capture the license plate numbers of rule violators, traffic police officers can use automated number plate recognition (ANPR) systems. These systems use cameras and computer vision algorithms to automatically detect and read license plate numbers from passing vehicles. The captured license plate numbers can then be compared against a database of registered vehicles and known rule violators to identify potential offenders. This allows traffic police to quickly and accurately identify rule violators and take appropriate action, such as issuing a ticket or impounding the vehicle. By using ANPR systems, traffic police officers can improve their efficiency and effectiveness in enforcing traffic rules, helping to make the roads safer for everyone.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
