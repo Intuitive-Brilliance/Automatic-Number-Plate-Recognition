@@ -139,17 +139,17 @@ The ChatBot can be deployed on any website of your choice, however, the files ne
   - [ ] Send the information to backend.
 - [ ] Backend
   - [ ]  Training
-   - [ ] Preprocess the data  
-   - [ ] Load the base YOLO V5 Model
-   - [ ] Set the hyperperameters
-   - [ ] Train
+    - [ ] Preprocess the data  
+    - [ ] Load the base YOLO V5 Model
+    - [ ] Set the hyperperameters
+    - [ ] Train
   - [ ] Prediction
-   - [ ] Load the pre-trained model.
-   - [ ] Run prediction on the uploaded image.
-   - [ ] Crop the area of predicted bounding box
-   - [ ] Send the cropped image to Google OCR
-   - [ ] Obtain the license number
-   - [ ] Send the cropped image and license number to frontend.
+    - [ ] Load the pre-trained model.
+    - [ ] Run prediction on the uploaded image.
+    - [ ] Crop the area of predicted bounding box
+    - [ ] Send the cropped image to Google OCR
+    - [ ] Obtain the license number
+    - [ ] Send the cropped image and license number to frontend.
 
 
 <!---See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).--->
