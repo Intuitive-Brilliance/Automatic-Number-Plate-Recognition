@@ -110,12 +110,9 @@ Install the requirements.txt file and run the application.
   ```
 
 ### Installation
-A number of paid API's are used:
+Following API's are used
 
-1. Google translation API.
-2. Google location API.
-3. Google text to speech and speech to text API.
-
+1. Google OCR API.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
