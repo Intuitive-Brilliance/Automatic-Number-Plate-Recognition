@@ -67,7 +67,7 @@ An end-to-end application to capture the license plate numbers of vehicles and r
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!---[![Product Name Screen Shot][product-screenshot]](https://example.com)--->
 
 Traffic police officers face the challenge of managing a large volume of traffic while ensuring that traffic rules are followed. However, the limits of human capability mean that many rule breakers go undetected, leading to dangerous situations on the roads. To address this problem, license plate numbers of rule violators can be captured and used to identify and punish them. This not only helps to maintain order on the roads but also makes them safer for everyone. By imposing penalties on rule breakers, traffic police can deter others from violating the rules and create a safer environment for everyone on the roads.
 
